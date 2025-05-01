@@ -75,4 +75,4 @@ The **Logistic Regression model with GridSearchCV** gave the best overall perfor
 
 **Tasnim Al-Hamoud**  
 ML & AI Enthusiast  
-[LinkedIn Profile](https://www.linkedin.com/) *(replace this with your actual profile link)*
+[LinkedIn Profile](https://www.linkedin.com/in/tasnim-hamoud-3b76a4344?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
